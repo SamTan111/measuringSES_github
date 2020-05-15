@@ -1,1 +1,4 @@
 *.xls diff=xls
+*.ods diff=spreadsheet
+*.xlsx diff=spreadsheet
+*.xlsb diff=spreadsheet
